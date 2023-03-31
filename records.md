@@ -34,7 +34,17 @@ table = \{
 ```
 
 ### Reference other expressions in the record destructure
-Default values can reference other expressions in the record destructure; if you wanted, you could write
+Default values can reference other expressions in the record destructure; if you wanted, you could write:
+
+```coffeescript
+table = \{ 
+        height, 
+        width, 
+        title ? "oak", 
+        description ? Str.concat "A table called " title
+    }
+    -> ...
+```
 
 ### Optional Record values are no good fit for data modelling
 
