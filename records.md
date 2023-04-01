@@ -1,6 +1,6 @@
 # Record
 
-[index](./README.md)
+[< top](./README.md)
 
 A **Record** is a group of named values. 
 
