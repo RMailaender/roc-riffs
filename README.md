@@ -6,7 +6,8 @@ Here I collect some code snippets and short examples (or riffs) for the **roc** 
 ## Riff tables
 
 - [Records](./records.md)
-- [Tags - Pattern Match](./riffs/tag-pattern-match.md)
+- [Lists](./lists.md)
+- [Tags](./tags.md)
 
 
 ## Todo
