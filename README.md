@@ -8,7 +8,7 @@ Here I collect some code snippets and short examples (or riffs) for the **roc** 
 - [Records](./records.md)
 - [Lists](./lists.md)
 - [Tags](./tags.md)
-
+[[records]]
 
 ## Todo
 
