@@ -1,7 +1,8 @@
 # roc-riffs
 Here I collect some code snippets and short examples (or riffs) for the **roc** programming language. Riffs are short cues on the guitar or bass in metal and rock. (Probably in other genres and on other instruments too, but what do I know)
 
-[Roc Standard Lib](https://www.roc-lang.org/builtins/Str)
+- [Roc Standard Lib](https://www.roc-lang.org/builtins/Str)
+- [Roc Tutorial](https://www.roc-lang.org/tutorial)
 
 ## Riff tables
 
